@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED3-2
+Added Member To Class: ClassName=clap_schematic Member=Component LED1 LED Orange
+Added Member To Class: ClassName=clap_schematic Member=Component LED2 LED Red
+Added Member To Class: ClassName=clap_schematic Member=Component LED3 LED Green
